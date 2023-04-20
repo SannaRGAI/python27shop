@@ -1,0 +1,7 @@
+venv/
+.env
+__pycashe__/
+.idea/
+static/
+media/
+
