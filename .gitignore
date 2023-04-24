@@ -1,6 +1,6 @@
 venv/
 .env
-__pycashe__/
+__pycache__/
 .idea/
 static/
 media/
